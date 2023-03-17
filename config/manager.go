@@ -54,7 +54,7 @@ func generateDefaultConfig() {
 	Config = configMain{
 		Services: []*ConfigProxyService{
 			{
-				Name:          "HypixelDefault",
+				Name:          "Hypixel",
 				TargetAddress: "mc.hypixel.net",
 				TargetPort:    25565,
 				Listen:        25565,
@@ -67,7 +67,7 @@ func generateDefaultConfig() {
 						EnableMaxLimit: false,
 					},
 					MotdFavicon:     "{DEFAULT_MOTD}",
-					MotdDescription: "§d{NAME}§e service is working on §a§o{INFO}§r\n§c§lProxy for §6§n{HOST}:{PORT}§r",
+					MotdDescription: "§d{NAME}§e service is working ",
 				},
 			},
 		},
