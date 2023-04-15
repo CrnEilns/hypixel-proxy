@@ -5,7 +5,7 @@
 
 **English** | [**简体中文**](README_cn.md)
 
-🚀 A simple, fast, high performance multipurpose TCP relay, primarily developed for building Hypixel reverse proxies.
+🚀  A simple, fast, high performance multipurpose TCP relay, primarily developed for building Hypixel reverse proxies.
 
 ## Feature Highlights
 
