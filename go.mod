@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/fatih/color v1.15.0
 	github.com/fsnotify/fsnotify v1.6.0
-	golang.org/x/sys v0.6.0
+	golang.org/x/sys v0.8.0
 )
 
 require (
